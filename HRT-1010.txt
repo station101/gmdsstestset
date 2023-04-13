@@ -1,4 +1,5 @@
-Modes: DSC ten-bit error detecting code 100 Baud symbol rate FSK 170 Hz shift / MORSE AM
+Mode 1: DSC ten-bit error detecting code 100 Baud symbol rate FSK 170 Hz shift ITU-R M.541-10
+Mode 2: MORSE AM ITU-R M.1677-1
 Audio Generation: 1700 Hz
 Carrier Frequency: 2187,5 kHz / 4207,5 kHz
 Synthesizer Technology: DDS
