@@ -1,0 +1,7 @@
+NVT-1010 device generates a NAVTEX message to test receiver operation at acceptable carrier frequency (490, 518, 4902.5 kHz) offsets.
+
+Technical Standards for NAVTEX receivers: 
+IMO Resolutions MSC.148(77) A.2.1 (17), SOLAS Regulation IV/7.1.4, 
+ITU-R M.540-2, ITU-R M.625-3, IEC 60945-4, IEC 61162-1, IEC 61162-2, IEC 61097-6
+
+
